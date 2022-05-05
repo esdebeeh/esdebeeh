@@ -1,6 +1,6 @@
-- 👋 Stay a while and listen
-- 👀 I'm Daniel, leveraging 10 years' of expierence in system administration, cybersecurity and project management
-- 🌱 I’m currently set out to get the OSCP, using github as my primary archive for study-materials, anki-flashcards and as a dojo
+- 👋 "Stay a while and listen..."
+- 👀 I'm Daniel, leveraging 10 years' of expierence in system administration, cybersecurity and project management to earn my OSCP and Try Harder!
+- 🌱 Using github as my primary archive for study-materials, anki-flashcards and as 道場
 - 📫 Reach me: kc82pv3lh@mozmail.com 
 
 <!---
