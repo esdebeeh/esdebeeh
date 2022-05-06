@@ -1,5 +1,5 @@
 - 👋 "Stay a while and listen..."
-- 🌱 Using github as my primary archive for study-materials, anki-flashcards, mindmaps and as 道場
+- 🌱 Using github for study-materials, anki-flashcards, mindmaps and as 道場
 
 <!---
 esdebeeh/esdebeeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
